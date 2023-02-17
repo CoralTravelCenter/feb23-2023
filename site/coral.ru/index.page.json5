@@ -1,0 +1,8 @@
+{
+    contents: [
+        '/site/coral.ru/components/main.html',
+        '/site/coral.ru/components/HOTELS.html',
+        '/site/coral.ru/components/disclaimer.html',
+        '/site/coral.ru/components/message-us.html'
+    ]
+}
